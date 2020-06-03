@@ -1,0 +1,101 @@
+<html><head>
+
+<!-- Meta -->
+<meta charset="utf-8" data-dynamic-entity="1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" data-dynamic-entity="1">
+<meta name="keywords" id="page-keywords" content="" data-dynamic-entity="3">
+<meta name="description" id="page-description" content="" data-dynamic-entity="3">
+<meta id="page-generator" name="Generator" content="WebStarts.com - Editor; Chrome/81.0.4044.1 on Window 10 with Win64,x6 at Sun May 10 2020 13:46:26 GMT-0400 (Eastern Daylight Time)" data-dynamic-entity="3">
+<title id="page-title" data-dynamic-entity="3">LANDING</title>
+
+<!-- CSS -->
+<link rel="stylesheet" data-dynamic-entity="1" type="text/css" href="https://cdn.secure.website/library/users/common.css">
+<link id="site.css" type="text/css" rel="stylesheet" href="https://cdn.secure.website/client-site-resources/10581242/css/site.css?r=20200513170004" data-file="site.css" data-dynamic-entity="2">
+<link id="site-gfonts" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,italic,600,600italic,700,700italic,800,800italic%7CChanga:200,300,400,500,600,700,800%7CCaesar+Dressing&amp;subset=all" type="text/css" rel="stylesheet" data-dynamic-entity="2">
+<link id="layout-desktop.css" type="text/css" rel="stylesheet" href="https://cdn.secure.website/client-site-resources/10581242/css/layout-desktop.css?r=20200513170004" data-file="layout-desktop.css" data-viewport="desktop" data-dynamic-entity="2">
+<link type="text/css" rel="stylesheet" href="https://cdn.secure.website/library/users/fonts/public/css/public-icons.min.css" id="public-icons-css" data-dynamic-entity="2">
+<link id="position.css" type="text/css" rel="stylesheet" href="css/position.css" data-file="position.css" data-dynamic-entity="3">
+<link id="index.css" type="text/css" rel="stylesheet" href="https://cdn.secure.website/client-site-resources/10581242/css/index.css?r=20200510134628" data-file="index.css" data-dynamic-entity="3">
+<link id="index-layout-desktop.css" type="text/css" rel="stylesheet" href="https://cdn.secure.website/client-site-resources/10581242/css/index-layout-desktop.css?r=20200510134628" data-file="index-layout-desktop.css" data-viewport="desktop" data-dynamic-entity="3">
+
+<!-- JS -->
+<script type="text/javascript" data-dynamic-entity="4" data-editor-friendly="1">var _wsConfig = {"renderViewports":["desktop"],"convertedViewports":["desktop","phone"]};var _wsProps = {};</script>
+<script type="text/javascript" data-dynamic-entity="1" data-editor-friendly="1" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" data-dynamic-entity="1" data-editor-friendly="1">if (typeof jQuery === "undefined") {document.write(unescape('%3Cscript src="https://cdn.secure.website/library/jquery/jquery-1.11.1.min.js" data-dynamic-entity="1" type="text/javascript"%3E%3C/script%3E'));}</script>
+<script type="text/javascript" data-dynamic-entity="1" data-editor-friendly="1">var $j = jQuery.noConflict();</script><script type="text/javascript" data-dynamic-entity="1" data-editor-friendly="1" src="https://cdn.secure.website/library/users/common.js"></script><style type="text/css" data-dynamic-entity="3">[data-animate-type="entrance"]:not([objtype="0"]){visibility: hidden;}[data-menu-moretab="1"]{visibility: hidden;}</style>
+
+<!-- HC -->
+
+<meta content="en-us" http-equiv="Content-Language">
+
+<style type="text/css">#d_u0c0_linkAd { -webkit-transform: translate3d(0, 100%, 0); -moz-transform: translate3d(0, 100%, 0); transform: translate3d(0, 100%, 0); -webkit-transition: transform 1s; -moz-transition: transform 1s; transition: transform 1s; }#d_u0c0_linkAd.animateIn { -webkit-transform: translate3d(0, 0, 0); -moz-transform: translate3d(0, 0, 0); transform: translate3d(0, 0, 0); }#d_u0c0_linkAd { position: fixed; z-index: 2147483647; bottom: 0; left: 0; right: 0; background-color: #f3f3f3; padding: 10px; }#d_u0c0_linkAd *, #d_u0c0_linkAd :after, #d_u0c0_linkAd :before { -ms-box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }#d_u0c0_0:before, #d_u0c0_0:after { display: table; content: " "; }#d_u0c0_0:after { clear: both; }#d_u0c0_1 { float: left; width: 32px; height: auto; }#d_u0c0_2 { position: absolute; left: 48px; right: 35px; white-space: nowrap; text-overflow: ellipsis; overflow: hidden; font-size: 14px; font-weight: 300; font-family: 'Open Sans', sans-serif; color: #666; line-height: 30px; }#d_u0c0_3 { float: right; position: relative; }#d_u0c0_3 button { line-height: 30px; padding: 0; cursor: pointer; margin: 0; font-size: 21px; font-weight: 700; color: #000; text-shadow: 0 1px 0 #fff; filter: alpha(opacity=20); opacity: .2; border: none; background: none; }#d_u0c0_3 button:focus, #d_u0c0_3 button:hover { color: #000; text-decoration: none; cursor: pointer; filter: alpha(opacity=50); opacity: .5; outline: none; }#d_u0c0_4 { display: none; position: absolute; width: 300px; height: auto; padding: 10px 25px 10px 10px; border: 1px solid #ccc; border-radius: 5px; background-color: #f3f3f3; color: #666; font-size: 14px; bottom: 50px; right: 0px; }#d_u0c0_4 a, #d_u0c0_4 a:hover, #d_u0c0_4 a:focus { color: inherit; text-decoration: underline; font-weight: inherit; }#d_u0c0_6 { position: absolute; font-size: 18px; line-height: 1; top: 5px; right: 7px; }#d_u0c0_linkAd a { color: inherit; text-decoration: none; font-weight: inherit; }#d_u0c0_linkAd a:hover { text-decoration: underline; }.vp-phone #d_u0c0_1 { width: 24px; }.vp-phone #d_u0c0_2 { left: 40px; line-height: 24px; }.vp-phone #d_u0c0_3 button { line-height: 22px; }.vp-phone #d_u0c0_4 { bottom: 40px }</style></head>
+<body style="margin-bottom: 50px;">
+
+<header>
+<div id="header-wrap">
+<div id="header-full" class="content-full">
+<div class="content-inner"> </div> </div>
+<div id="header-fixed" class="content-fixed"> <div class="content-inner">
+<div id="staticMenu_58" class="stat-nav wse-men wse-ani wse-men-s5 activated" objtype="38" style="position: absolute; font-family: Changa; visibility: visible;" data-animate-duration="1" data-animate-effect="fadeIn" data-animate-class="wse-ani-fade-in" data-animate-type="entrance" data-animate-delay="0" data-animate-loop="1" data-animate-on="load"><nav class="horizontal" data-menu-force-ztop="1" data-menu-spacing="10" data-menu-same-size="0" data-menu-fill-space="0" data-menu-orientation="horizontal" data-menu-scrollspy="1" data-menu-moretab="1" style="visibility: visible;">
+<ul class="">
+<li class="active" style="width:80.4375px;"><a data-title="LANDING" data-id="40194382" data-external="0" class="active" style="font-family:'Changa';" href="index.html"><span class="page-title"><span class="page-title-inner">LANDING</span></span></a></li>
+<li style="width: 93.5938px;" class=""><a data-title="UPCOMING" data-id="40194392" data-external="0" style="font-family:'Changa';" class="" href="upcoming.html"><span class="page-title"><span class="page-title-inner">UPCOMING</span></span></a></li>
+<li style="width: 82.7813px;"><a data-title="CURRENT" data-id="40194405" data-external="0" style="font-family:'Changa';" href="current.html"><span class="page-title"><span class="page-title-inner">CURRENT</span></span></a></li></ul>
+<div class="wseSHBL"></div>
+<div class="wseSHBR"></div>
+<div class="wseSHTL"></div>
+<div class="wseSHTR"></div></nav>
+<div class="menu-toggle" data-menu-effect="slideout" style="background-color:transparent;"><span class="sr-only">Toggle navigation</span><span class="icon-bar" style="background-color:rgb(0, 0, 0);"></span><span class="icon-bar" style="background-color:rgb(0, 0, 0);"></span><span class="icon-bar" style="background-color:rgb(0, 0, 0);"></span></div></div><script id="activate-static-menu" type="text/javascript">_ws.activateNav(document.getElementById("staticMenu_58"));</script>
+<div id="hdr_txtBox_84" objtype="2" style="position: absolute; padding: 0px; display: block; visibility: visible;" class="wse-txt-con wse-ani clr-txt-75" data-phone-prominent-size="24" data-animate-duration="1" data-animate-effect="fadeIn" data-animate-class="wse-ani-fade-in" data-animate-type="entrance" data-animate-delay="0" data-animate-loop="1" data-animate-on="load"><span style="font-family:'Caesar Dressing';"><h4 class="wse-txt-h4" style="text-align:center;font-family:'Caesar Dressing';"><span class="wse-txt-inner"><span class="wse-txt-size"><span class="clr-txt-75">yanu</span></span></span></h4></span></div>
+<div id="hdr_boxTool_64" class="wse-box wse-box-s3" objtype="5" style="position:absolute;">
+<div class="wseI clr-bkg-hex02fa90"></div><div class="wseSHBL"></div><div class="wseSHBR"></div><div class="wseSHTL"></div><div class="wseSHTR"></div></div></div> </div>
+<div id="header-bg" class="bg-container" style="width:100%;height:100%;position:absolute;">
+<div class="content-fixed bg wse-hd clr-bkg-61 wse-hd-df" objtype="35"><div class="content-inner"> <div class="wseSHBL"></div> <div class="wseSHBR"></div> <div class="wseSHTL"></div> <div class="wseSHTR"></div></div></div></div> </div> </header>
+
+<div id="body-content" class="" data-manual-drag-desktop="775" data-manual-drag-phone="378">
+<div id="body-full" class="content-full"><div class="content-inner"><shared>
+
+
+</shared>
+<div id="stripTool_68" class="wse-str wse-str-df hidden-phone" data-container="full" objtype="32" style="position:absolute;">
+<div class="wseI clr-brd-hextransparent clr-bkg-61"></div>
+<div class="content-fixed"><div class="content-inner"><div class="wseSHBL"></div><div class="wseSHBR"></div><div class="wseSHTL"></div><div class="wseSHTR"></div></div></div><div class="wseSHBL"></div><div class="wseSHBR"></div><div class="wseSHTL"></div><div class="wseSHTR"></div></div>
+<div id="stripTool_69" class="wse-str wse-str-df hidden-phone" data-container="full" objtype="32" style="position:absolute;"><div class="wseI clr-brd-hextransparent clr-bkg-61"></div><div class="content-fixed"><div class="content-inner"><div class="wseSHBL"></div><div class="wseSHBR"></div><div class="wseSHTL"></div><div class="wseSHTR"></div></div></div><div class="wseSHBL"></div><div class="wseSHBR"></div><div class="wseSHTL"></div><div class="wseSHTR"></div></div></div></div>
+<div id="body-fixed" class="content-fixed"><div class="content-inner"><shared>
+
+
+</shared>
+<!--</div>-->
+<!--</div>-->
+<div id="video_67" class="wse-vid wse-vid-df hidden-phone" objtype="30" style="position:absolute;">
+<div class="wseI" style="width:100%;height:100%;"><iframe allowfullscreen="" allow="autoplay; fullscreen" src="https://static.webstarts.com/library/html5-player/youtube/?thumbs%5B480x360%5D=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fro6XsVwdOGQ%2Fhqdefault.jpg&amp;id=ro6XsVwdOGQ&amp;bg=0&amp;autoplay=1&amp;loop=0&amp;controls=0&amp;autohide=0&amp;showinfo=0" data-video-type="youtube" data-video-options="%7B%22id%22%3A%22ro6XsVwdOGQ%22%2C%22type%22%3A%22youtube%22%2C%22thumbs%22%3A%7B%22sd%22%3A%22https%3A%2F%2Fi.ytimg.com%2Fvi%2Fro6XsVwdOGQ%2Fhqdefault.jpg%22%7D%2C%22params%22%3A%7B%22bg%22%3A0%2C%22autoplay%22%3A%221%22%2C%22loop%22%3A0%2C%22controls%22%3A%220%22%2C%22autohide%22%3A%220%22%2C%22showinfo%22%3A%220%22%7D%7D"></iframe></div><div class="wseSHBL"></div><div class="wseSHBR"></div><div class="wseSHTL"></div><div class="wseSHTR"></div></div>
+<div id="boxTool_68" class="wse-box wse-box-df hidden-phone" objtype="5" style="position:absolute;">
+<div class="wseI clr-bkg-hextransparent clr-brd-hextransparent"></div><div class="wseSHBL"></div><div class="wseSHBR"></div><div class="wseSHTL"></div><div class="wseSHTR"></div></div></div></div>
+<div id="body-bg" class="bg-container">
+<div class="content-fixed bg clr-brd-df wse-pg clr-bkg-61 wse-pg-df" objtype="34">
+<div class="content-inner"><div class="wseSHBL"></div><div class="wseSHBR"></div><div class="wseSHTL"></div><div class="wseSHTR"></div></div></div></div></div>
+<footer>
+<div id="footer-wrap">
+<div id="footer-full" class="content-full">
+<div class="content-inner">
+</div>
+</div>
+<div id="footer-fixed" class="content-fixed">
+<div class="content-inner">
+<div id="txtBox_63" objtype="2" style="position:absolute;padding:5px;display:block;" class="wse-txt-con"><p class="wse-txt-bs" style="text-align:left;"><span class="wse-txt-inner"><span class="wse-txt-size">Copyright © 2020 My Website</span></span></p></div>
+<div id="ftr_socialBar_86" class="wse-social wse-ico-s2" objtype="47" style="position:absolute;">
+<div class="wse-ico-set horizontal" data-icon-spacing="10" data-icon-alignment="center">
+<div class="wse-ico" data-social-type="instagram" style="padding:0px 5px;"><a rel="nofollow" data-color-group="instagram" class="ico-link clr-brd-61 clr-txt-hvr-64 clr-brd-hvr-64" href="http://instagram.com/freewebsitebuilder" target="_blank"><i class="pi pi-instagramm" data-icon-ratio="0.5"></i></a></div>
+<div class="wse-ico" data-social-type="snapchat" style="padding:0px 5px;"><a href="" data-color-group="snapchat" class="ico-link clr-brd-61 clr-txt-hvr-64 clr-brd-hvr-64" target="_blank"><i class="pi pi-snapchat-ghost" data-icon-ratio="0.5714285714285714"></i></a></div>
+<div class="wse-ico" data-social-type="facebook" style="padding:0px 5px;"><a rel="nofollow" data-color-group="facebook" class="ico-link clr-brd-61 clr-txt-hvr-64 clr-brd-hvr-64" href="http://facebook.com/webstarts" target="_blank"><i class="pi pi-facebook" data-icon-ratio="0.35714285714285715"></i></a></div>
+<div class="wse-ico" data-social-type="twitter" style="padding:0px 5px;"><a rel="nofollow" data-color-group="twitter" class="ico-link clr-brd-61 clr-txt-hvr-64 clr-brd-hvr-64" href="http://twitter.com/webstarts" target="_blank"><i class="pi pi-twitter" data-icon-ratio="0.5714285714285714"></i></a></div>
+<div class="wse-ico" data-social-type="mail" style="padding:0px 5px;"><a data-color-group="mail" class="ico-link clr-brd-61 clr-txt-hvr-64 clr-brd-hvr-64" href="mailto:support@webstarts.com"><i class="pi pi-mail" data-icon-ratio="0.5714285714285714"></i></a></div>
+<div class="wse-ico" data-social-type="phone" style="padding:0px 5px;"><a data-color-group="phone" class="ico-link clr-brd-61 clr-txt-hvr-64 clr-brd-hvr-64" href="tel:1-800-805-0920"><i class="pi pi-phone" data-icon-ratio="0.5"></i></a></div></div></div></div>
+</div>
+<div id="footer-bg" class="bg-container">
+<div class="content-fixed bg wse-ft-df wse-ft clr-bkg-61" objtype="33"><div class="content-inner"><div class="wseSHBL"></div><div class="wseSHBR"></div><div class="wseSHTL"></div><div class="wseSHTR"></div></div></div></div>
+</div>
+</footer>
+
+
+<div id="d_u0c0_linkAd" class="vp-desktop animateIn"><div id="d_u0c0_0"><img id="d_u0c0_1" src="https://cdn.secure.website/library/images/minimal-webstarts-logo-w32.png"><div id="d_u0c0_2">Create a <a href="https://www.webstarts.com?lts=siteFooter">free website</a>, blog, or online store with <a href="https://www.webstarts.com?lts=siteFooter">WebStarts.com</a></div><div id="d_u0c0_3"><button id="d_u0c0_5">×</button><div id="d_u0c0_4">Is this your website? If so, you can prevent this footer from being displayed by upgrading your account. <a id="d_u0c0_7" href="javascript:;">Click here to upgrade now</a>.<button id="d_u0c0_6">×</button></div></div></div></div></body></html>
